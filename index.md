@@ -1,5 +1,6 @@
 # Welcome to My Reading Notes
 
-[Reading Assignment Day 9](reading9.md)
+This page is specifically for reading notes in the High School Code 201 class. I will create a page for every reading and link to it from this page below
 
-My project is awesome, it makes coffee and donuts automatically and it does my homework for me!!
+[Reading Day 9](reading_day_9.md)
+
